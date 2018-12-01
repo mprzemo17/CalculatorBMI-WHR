@@ -85,6 +85,8 @@
 
 
 
+
+
     <TextView
         android:id="@+id/result"
         android:layout_width="wrap_content"
@@ -101,7 +103,7 @@
         android:id="@+id/whrbutton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Open WHR Calculator"
+        android:text="MENU"
         android:background="#606ffa"/>
 
 

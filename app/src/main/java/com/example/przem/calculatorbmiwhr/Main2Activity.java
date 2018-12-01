@@ -39,7 +39,7 @@ public class Main2Activity extends AppCompatActivity {
     }
 
     public void  openActivity1() {
-        Intent intent = new Intent(this, Main3Activity.class);
+        Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
 

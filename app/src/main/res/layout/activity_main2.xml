@@ -100,7 +100,7 @@
         android:id="@+id/bmibutton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Open BMI Calculator"
+        android:text="MENU"
         android:background="#606ffa"/>
 
 
