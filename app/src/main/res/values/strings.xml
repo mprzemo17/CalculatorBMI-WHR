@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CalculatorBMIWHR</string>
+
+
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="BMI">BMI Calculator</string>
+
+
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_1">Obese Class 1 (Moderately Obese)</string>
+    <string name="obese_class_2">Obese Class 2 (Severely Obese)</string>
+    <string name="obese_class_3">Obese Class 3 (Very Severely Obese)</string>
+
+
+    <string name="waist">Waist</string>
+    <string name="hip">Hip</string>
+    <string name="calculateWHR">Calculate WHR</string>
+    <string name="WHR">WHR Calculator</string>
+
+
+    <string name="pear_type_obesity">Pear (triangle upwards)</string>
+    <string name="apple_type_obesity">Apple (triangle downwards)</string>
+    <string name="normal2">Normal</string>
+
+
+</resources>
