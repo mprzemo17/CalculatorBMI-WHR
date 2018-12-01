@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CalculatorBMIWHR</string>
+    <string name="app_name">Calculator BMI/WHR</string>
 
 
     <string name="weight">Weight</string>
