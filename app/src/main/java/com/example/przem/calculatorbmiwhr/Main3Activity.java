@@ -11,7 +11,7 @@ import android.widget.TextView;
 public class Main3Activity extends AppCompatActivity {
 
     public Button button;
-
+//xxx
 
     public EditText height;
     public EditText weight;
